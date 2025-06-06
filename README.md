@@ -8,18 +8,18 @@ Why: Supports fleet management decisions with visual insights and summaries.
 
 Tools: Excel (Pivot Tables, Conditional Formatting, Charts)
 
-📈 02 – Car Sales KPI Dashboard (Excel, Cognos Analytics, Looker Studio)
+📈 02. Data Visualization and Dashboards with Excel and Cognos – Car Sales & Services KPI Dashboard 
 Description:
 Created dashboards to analyze car sales, profits, and service metrics using Excel, IBM Cognos Analytics, and Google Looker Studio.
 
 What it does:
 Visualizes key business metrics like profit, quantity sold, and service performance across dealers and models.
 
-Why it exists:
+Why:
 Enables data-driven decision-making through clear visualizations for sales and service analysis.
 
-Key features / technologies used:
-Excel dashboards, pivot charts, IBM Cognos Analytics, Google Looker Studio, line and bar charts, heatmaps, treemaps, and bubble charts.
+Tools:
+Excel (Pivot Tables), IBM Cognos Analytics & Google Looker Studio (line and bar charts, heatmaps, treemaps, and bubble charts)
 
 🐍 03. Python Project – Stock & Revenue Analysis (Tesla & GME)
 Description:
@@ -31,18 +31,18 @@ Why: Helps investors understand stock behavior in relation to financials.
 
 Tools: Python, yFinance, BeautifulSoup
 
-🧮 04 – SQL Data Analysis (SQLite + Python)
+🧮 04. SQL Project – Chicago Socioeconomic & Crime Data Analysis
 Description:
 Analyzed real-world datasets using SQL in a Jupyter Notebook environment, focusing on data from the city of Chicago.
 
 What it does:
 Performs SQL queries to extract insights from relational databases and answer real-world analytical questions.
 
-Why it exists:
+Why:
 Demonstrates foundational and advanced SQL skills for data science workflows using real datasets in a Python environment.
 
-Key features / technologies used:
-SQLite, Python, Jupyter Notebooks, SELECT, WHERE, JOINs, GROUP BY, subqueries, stored procedures, and database schema exploration.
+Tools:
+SQLite, Python, Jupyter Notebooks
 
 🏠 05. Data Analysis with Python – Housing Price Prediction
 Description:
